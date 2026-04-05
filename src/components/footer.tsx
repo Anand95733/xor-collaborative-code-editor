@@ -26,7 +26,7 @@ export default function FooterSection() {
             </svg>
           </Link>
           <Link
-            href="https://github.com/957333"
+            href="https://github.com/Anand95733"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"

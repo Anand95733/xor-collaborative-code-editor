@@ -6,8 +6,8 @@ const people = [
     name: "Anand Ediga",
     designation: "Full Stack Developer",
     image:
-      "https://avatars.githubusercontent.com/u/957333",
-    link: "https://github.com/957333",
+      "https://avatars.githubusercontent.com/u/Anand95733",
+    link: "https://github.com/Anand95733",
   },
 ]
 
