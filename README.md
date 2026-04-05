@@ -21,7 +21,7 @@ Code together with your team in real-time — share a room, sync code instantly,
 
 **Key Features**: Real-time code sync, language sync, typing indicators, multi-language execution, room-based collaboration
 
-**Deployment**: Frontend on Vercel, Backend on Railway
+**Deployment**: Frontend on Vercel, Backend on Render
 
 ---
 
@@ -63,7 +63,7 @@ Code together with your team in real-time — share a room, sync code instantly,
 ## 🚀 Live Demo
 
 - **Frontend**: [xor-collaborative-code-editor.vercel.app](https://xor-collaborative-code-editor.vercel.app)
-- **Backend**: Deployed on Railway (Socket.IO server)
+- **Backend**: [xor-server-0n2p.onrender.com](https://xor-server-0n2p.onrender.com) (Socket.IO server)
 
 ---
 
