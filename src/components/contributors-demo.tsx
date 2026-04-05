@@ -5,8 +5,7 @@ const people = [
     id: 1,
     name: "Anand Ediga",
     designation: "Full Stack Developer",
-    image:
-      "https://avatars.githubusercontent.com/u/Anand95733",
+    image: "/profile.png",
     link: "https://github.com/Anand95733",
   },
 ]
